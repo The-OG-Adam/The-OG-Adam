@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
+<h1 align="center">Hi, I'm Adam</h1>
 <p align="center">🚀 A passionate Frontend Developer with a love for clean design and robust code</p>
 
 <h2>💻 Languages & Tools</h2>
